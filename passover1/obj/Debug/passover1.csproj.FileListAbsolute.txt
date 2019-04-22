@@ -1,0 +1,7 @@
+C:\Users\yudal\source\repos\passover1704\passover1\bin\Debug\passover1.exe.config
+C:\Users\yudal\source\repos\passover1704\passover1\bin\Debug\passover1.exe
+C:\Users\yudal\source\repos\passover1704\passover1\bin\Debug\passover1.pdb
+C:\Users\yudal\source\repos\passover1704\passover1\obj\Debug\passover1.csprojAssemblyReference.cache
+C:\Users\yudal\source\repos\passover1704\passover1\obj\Debug\passover1.csproj.CoreCompileInputs.cache
+C:\Users\yudal\source\repos\passover1704\passover1\obj\Debug\passover1.exe
+C:\Users\yudal\source\repos\passover1704\passover1\obj\Debug\passover1.pdb
